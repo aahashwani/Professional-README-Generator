@@ -1,4 +1,4 @@
-#  
+# ReadMe Generator
 
   # Table of Contents
   - [Description](#description-)
@@ -10,30 +10,30 @@
 
 
   ## Description
-ofowk
+helps generate a readme file
 
 ## Installation
-okwfoek
+you have to download node js on your machine as well as inqurirer from npm
 
 ## Usage
-v
+creating professional Readme files
 
 ## Contributors
-owogjowj
+Alishah, NPM
 
 ## Testing
-ojgoj
+run this project via node js like right now
 
 ## License
 
-    The application license is covered by: [![License](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+    The application license is covered by: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
       
 
 ## GitHub
-weofk
+aahashwani
 
 ## Email
-oko
+blah@gmail.com
 
 
 
